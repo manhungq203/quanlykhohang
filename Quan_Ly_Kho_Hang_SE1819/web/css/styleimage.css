@@ -1,0 +1,6 @@
+.product-image {
+    width: 200px; /* Đặt kích thước chiều rộng mong muốn */
+    height: 200px; /* Đặt kích thước chiều cao mong muốn */
+    object-fit: cover; /* Đảm bảo hình ảnh không bị méo khi thu phóng */
+}
+
